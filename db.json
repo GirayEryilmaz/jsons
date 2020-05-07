@@ -1,0 +1,14 @@
+[
+  {
+    "url-exits": false,
+    
+  },
+  {
+    "url-exists": true,
+    "type": "file"
+  },
+  {
+    "url-exists": true,
+    "type": "folder"
+  }
+]
